@@ -1,27 +1,76 @@
-# Repos Used
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-[Visitor Badge](https://github.com/hehuapei/visitor-badge)\
-[Typing SVG](https://github.com/DenverCoder1/readme-typing-svg)\
-[Shields.io Badges](https://github.com/alexandresanlim/Badges4-README.md-Profile)\
-[Skill Icons](https://github.com/tandpfun/skill-icons)\
-[Contributions Snake](https://github.com/Platane/snk)\
-[Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)\
-[Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
 
-# Usage Instructions
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
 
-Video Walkthrough: https://youtu.be/eHaXw8Bd_ms
+<br/>
 
-1.  Fork this repo and name it `<Ashhaad5>`
-2.  In your forked repo, go to the `Settings tab > actions > general`. In the `Workflow permissions` section, toggle `Read and Write permissions` and press `save`. This will allow for the snake contributions svg to be generated based on your own contributions via Github Actions.
-3.  Go to the `Actions` tab, select `Generate Snake` and click `run workflow`. That way, you will manually generate your first snake svg; after that, a new one will be generated every 12 hours.
-4.  On line 1, rename `page_id` url param to `<your-username>.<your-username>`
-5.  On line 4, rename `lines` url param to whatever you`d like
-6.  Customize lines 11-21 to fit your description
-7.  Customize your Socials section (23-33)
-8.  Customize your Tools section (37-42)
-9.  On line 50, change `/salesp07/salesp07/` to `/<your-username>/<your-username>/`. This will make sure that you're fetching your snake contributions svg and not mine.
-10. In your stats section, rename `https://github-readme-salesp07.vercel.app` to `https://github-readme-stats.vercel.app`. The first one is my private instance of the repo, and I use it so my private contributions are taken into account as well. Hosting your private instance of github-readme-stats on Vercel is quite a simple process and recommended; if you're interested, click [here](https://github.com/salesp07/github-readme-stats#deploy-on-your-own).
-11. In the same section, replace `github-readme-streak-stats-salesp07.vercel.app` with `https://streak-stats.demolab.com`. If you want to host your own instance, which I highly recommend as it is down often, follow the instructions [here](https://github.com/DenverCoder1/github-readme-streak-stats?tab=readme-ov-file#next-steps).
-12. Customize your support link or replace it with footer typing animation (line 73).
-13. You're good to go! Make sure to leave a ⭐ if you like this repo!
+<div align="center">
+ 
+ 🔭 I’m currently working on **a chat app**
+ 
+ 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+
+💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:ashhad0105@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/mdashhaad0105/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/Ashhaad5" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
